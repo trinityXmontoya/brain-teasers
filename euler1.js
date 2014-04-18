@@ -15,4 +15,3 @@ for ( var index=0; index<1000; index++) {
 };
 
 console.log(res);
-// Answer: 233168

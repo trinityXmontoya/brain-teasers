@@ -23,5 +23,3 @@ end
 
 #pascal's triangle allows for the calculation of combinations, here is the number of routes possible in a 20 * 20 grid
 puts Lattice.combinations(20,20)
-
-#Answer: 137846528820
