@@ -4,14 +4,14 @@
 
 // Idea 1
 var res=0;
-for ( var index=0; index<1000; index++) {
-  if ( index%3==0 || index%5==0 ) { res+=index; }
+for ( var i=0; i<1000; i++) {
+  if ( i%3==0 || i%5==0 ) { res+=i; }
 };
 
 // Idea 2
 var res=0;
-for ( var index=0; index<1000; index++) {
-  if ( !(index%3) || !(index%5) ) { res+=index; }
+for ( var i=0; i<1000; i++) {
+  if ( !(i%3) || !(i%5) ) { res+=i; }
 };
 
 console.log(res);
