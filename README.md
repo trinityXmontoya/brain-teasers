@@ -14,6 +14,6 @@ Solutions:
 
 4. Euler 15 : Ruby
 
-5. Palindrome Checker : JS
+5. Palindrome Checker : JS (full sentences)
 
 6. One-line ROT-13 Cipher : Ruby
