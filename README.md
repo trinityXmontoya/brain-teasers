@@ -6,16 +6,16 @@ Solved in Ruby | | Javascript
 
 Solutions:
 
-1. Euler 1 : Ruby
+  Euler 1 in Ruby
 
-2. Euler 1 : JS
+  Euler 1 in JS
 
-3. Euler 6 : JS
+  Euler 6 in JS
 
-4. Euler 15 : Ruby
+  Euler 15 in Ruby
 
-5. Palindrome Checker : JS (full sentences)
+  Palindrome Checker in JS (full sentences)
 
-6. One-line ROT-13 Cipher : Ruby
+  One-line ROT-13 Cipher in Ruby
 
-7. Euler 4 : Ruby
+  Euler 4 in Ruby
