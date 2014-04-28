@@ -17,3 +17,5 @@ Solutions:
 5. Palindrome Checker : JS (full sentences)
 
 6. One-line ROT-13 Cipher : Ruby
+
+7. Euler 4 : Ruby
