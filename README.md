@@ -10,6 +10,8 @@ Solutions:
 
   Euler 1 in JS
 
+  Euler 4 in Ruby
+
   Euler 6 in JS
 
   Euler 15 in Ruby
@@ -17,5 +19,3 @@ Solutions:
   Palindrome Checker in JS (full sentences)
 
   One-line ROT-13 Cipher in Ruby
-
-  Euler 4 in Ruby
