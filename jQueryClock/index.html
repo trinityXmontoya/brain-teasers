@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Dollars in the wind</title>
+	<script src="http://code.jquery.com/jquery-2.1.0.min.js"></script>
+	<script type="text/javascript" src="clock.js"></script>
+	<style>
+		img {
+			position: absolute;
+			left: 50%;
+			margin-left: -125px;
+			/* Check out http://easings.net/ for more info on this!*/
+			-webkit-transition: all 600ms cubic-bezier(0.215, 0.61, 0.355, 1);
+			transition: all 600ms cubic-bezier(0.215, 0.61, 0.355, 1);
+		}
+		div {
+			width: 250px;
+			height: 250px;
+			border-radius:100%;
+			border:black 2px solid;
+			margin:0 auto;
+		}
+
+		@-webkit-keyframes rotating {
+    from{
+        -webkit-transform: rotate(0deg);
+    }
+    to{
+        -webkit-transform: rotate(360deg);
+    }
+		}
+
+		@keyframes rotating {
+		from{
+				transform: rotate(0deg);
+		}
+		to{
+				transform: rotate(360deg);
+		}
+		}
+
+	</style>
+</head>
+<body>
+	<h1 class="title">CLOCK BRO</h1>
+
+	<div class="clock">
+		<img src="img/secondhand.png" id="second-hand">
+		<img src="img/minutehand.png" id="minute-hand">
+		<img src="img/hourhand.png" id="hour-hand">
+	</div>
+</body>
+</html>
