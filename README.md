@@ -19,5 +19,7 @@ Solutions:
   Palindrome Checker in JS (full sentences)
 
   One-line ROT-13 Cipher in Ruby
-  
+
   A JQuery Clock Solution
+
+  Angle between clockhands solution in Ruby
