@@ -18,5 +18,4 @@ max = 0
   return max
 end
 
-largest_palindrome_product
 largest_palindrome_product(10,99) # => 9009
