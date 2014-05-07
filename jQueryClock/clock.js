@@ -1,3 +1,5 @@
+// while this clock slides rather than ticking, even if that is not how clocks work that is how time itself works!
+
 function startClock(){
   setInterval(function(){
     secondTick();
